@@ -1,6 +1,5 @@
 
-// curl https://api.airtable.com/v0/appTwvJ9F7TG5QuYn/Books.key72YZ6QdLlW1pGt
-//https://api.airtable.com/v0/appTwvJ9F7TG5QuYn/Books?api_key=key72YZ6QdLlW1pGt
+
 import React, { Component } from 'react';
 
 
